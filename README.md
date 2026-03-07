@@ -30,3 +30,13 @@ https://portswigger.net/web-security
 Disclaimer
 
 These writeups are created for educational purposes only while practicing on the PortSwigger Web Security Academy platform.
+
+SQL Injection Labs
+
+This section contains writeups for SQL Injection labs from PortSwigger Web Securiy Academy.
+
+Lab                                     Difficulty               Status
+
+SQL Injection :retrieving               Apprentice               Done
+hidden data
+
