@@ -1,17 +1,25 @@
 SQL Injection: Retrieving Hidden Data
 
+---
+
 Category: SQL Injection
 Difficulty: Apprentice
 Lab Link: https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
+
+---
 
 Vulnerability-
 
 The application constructs a SQL query using user input from the "category" parameter without proper sanitization.
 This allows an attacker to manipulate the SQL query and bypass the condition that hides unreleased products.
 
+---
+
 Payload-
 
 ' OR 1=1--
+
+---
 
 Exploitation Steps-
 
@@ -25,6 +33,8 @@ Exploitation Steps-
 /filter?category=Gifts' OR 1=1--
 
 4. The injected condition modifies the SQL query logic and returns all products, including hidden ones.
+
+---
 
 Why the Attack Works
 
@@ -40,6 +50,8 @@ SELECT * FROM products WHERE category='Gifts' OR 1=1--' AND released=1
 - "--" comments out the remaining query
 
 This causes the database to return all rows, including hidden products.
+
+---
 
 Prevention-
 
