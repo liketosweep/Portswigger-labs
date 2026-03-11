@@ -2,7 +2,7 @@ SQL Injection: Querying Database Version (Oracle)
 
 Category: SQL Injection
 Difficulty: Practitioner
-Lab Link: https://portswigger.net/web-security/sql-injection/examining-the-database/lab-query-database-version-oracle
+Lab Link: https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-oracle
 
 ---
 
