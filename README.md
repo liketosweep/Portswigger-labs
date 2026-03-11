@@ -44,3 +44,4 @@ This section contains writeups for SQL Injection labs from PortSwigger Web Secur
 | SQL-querying the database type and version on Oracle | Practitioner | ✅ Completed |
 | SQL-querying the type and version on MySQL and Microsoft SQL | Practitioner |✅ Completed |
 | SQL-Listing database content on Non-Oracle databases| Practitioner | ✅ Completed|
+| SQL-Listing database content on Oracle database | Practitioner |✅ Completed|
