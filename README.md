@@ -42,3 +42,5 @@ This section contains writeups for SQL Injection labs from PortSwigger Web Secur
 | SQL-retrieving hidden data | Apprentice | ✅ Completed |
 | SQL-login bypass | Apprentice | ✅ Completed |
 | SQL-querying the database type and version on Oracle | Practitioner | ✅ Completed |
+| SQL-querying the type and version on MySQL and Microsoft SQL | Practitioner |✅ Completed |
+| SQL-Listing database content on Non-Oracle databases| Practitioner | ✅ Completed|
