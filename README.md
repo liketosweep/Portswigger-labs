@@ -45,3 +45,7 @@ This section contains writeups for SQL Injection labs from PortSwigger Web Secur
 | SQL-querying the type and version on MySQL and Microsoft SQL | Practitioner |✅ Completed |
 | SQL-Listing database content on Non-Oracle databases| Practitioner | ✅ Completed|
 | SQL-Listing database content on Oracle database | Practitioner |✅ Completed|
+| SQL-Determining Number of Columns (UNION) | Practitioner |✅ Completed|
+| SQL-Finding a Column containing text | Practitioner|✅ Completed|
+| SQL-Retrieving the data from other tables| Practitioner|✅ Completed|
+| SQL-Retrieving multiple values in a single column| Practitioner|✅ Completed|
