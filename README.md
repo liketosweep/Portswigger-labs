@@ -1,4 +1,5 @@
 PortSwigger Web Security Academy Labs
+-----------------------------------------------------------------------------------------
 
 This repository contains writeups and reports for labs from the PortSwigger Web Security Academy.
 The goal of this repository is to document practical exploitation of common web application vulnerabilities.
@@ -14,6 +15,7 @@ Topics Covered
 - Business Logic Vulnerabilities
 
 Lab Categories
+-----------------
 
 Category| Labs
 SQL Injection| Coming Soon
@@ -49,3 +51,6 @@ This section contains writeups for SQL Injection labs from PortSwigger Web Secur
 | SQL-Finding a Column containing text | Practitioner|✅ Completed|
 | SQL-Retrieving the data from other tables| Practitioner|✅ Completed|
 | SQL-Retrieving multiple values in a single column| Practitioner|✅ Completed|
+| SQL-Blind injection with conditional responses|Practitioner|✅ Completed|
+| SQL-Blind injection with conditional errors|Practitioner|✅ Completed|
+| SQL-Visible error based injection|Practitioner|✅ Completed|
