@@ -54,3 +54,5 @@ This section contains writeups for SQL Injection labs from PortSwigger Web Secur
 | SQL-Blind injection with conditional responses|Practitioner|✅ Completed|
 | SQL-Blind injection with conditional errors|Practitioner|✅ Completed|
 | SQL-Visible error based injection|Practitioner|✅ Completed|
+| SQL-Blind injection with time delays|Practitioner|✅ Completed|
+| SQL-Blind injection with time delays and information retrieval|Practitioner|✅ Completed|
